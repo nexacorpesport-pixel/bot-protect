@@ -1,0 +1,13 @@
+{
+  "prefix": ".",
+  "token": "TON_TOKEN",
+  "logs": {
+    "roles": "logs-rôles",
+    "salons": "logs-salons",
+    "serveur": "logs-serveur",
+    "membres": "logs-membres",
+    "vocal": "logs-vocal",
+    "messages": "logs-messages",
+    "moderation": "logs-modération"
+  }
+}
